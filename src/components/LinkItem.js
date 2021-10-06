@@ -5,7 +5,7 @@ import styled from "@emotion/styled";
 // import { SiLinkedin } from 'react-icons/si';
 
 const LinkItem = ({ link }) => {
-  const { url, icon, title, openInNewTab } = link;
+  const { url, title, openInNewTab } = link;
 
   return (
     <StyledList>
