@@ -37,8 +37,8 @@ const StyledList = styled.li`
     background-color: #fff;
     color: #000;
     text-align: center;
-    font-size: 17px;
-    font-family: 'Karla', Helvetica, sans-serif;
+    font-size: 15px;
+    font-family: 'GT Walsheim';
     font-weight: 600;
     padding: 13px 0;
     margin: 23px 0;
