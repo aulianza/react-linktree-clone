@@ -1,0 +1,58 @@
+{
+  "header": {
+    "image": {
+      "url": "https://aulianza.id/_next/image?url=%2F_next%2Fstatic%2Fimage%2Fpublic%2Fimages%2Faulianza.cbeac04c6255c73619604cbb3a0ce5cd.jpg&w=1920&q=75",
+      "alt": "Ryan Aulia"
+    },
+    "fullname": "Ryan Aulia",
+    "title": "hello! let's get in touch."
+  },
+  "links": [
+    {
+      "title": "Website",
+      "url": "https://aulianza.id",
+      "icon": "HiOutlineGlobe",
+      "openInNewTab": true
+    },
+    {
+      "title": "Resume",
+      "url": "https://aulianza.id/resume.pdf",
+      "openInNewTab": true
+    },
+    {
+      "title": "Email",
+      "url": "mailto:hello@aulianza.id",
+      "openInNewTab": false
+    },
+    {
+      "title": "WhatsApp",
+      "url": "https://wa.me/628888641170",
+      "openInNewTab": true
+    },
+    {
+      "title": "Blog",
+      "url": "https://aulianza.com",
+      "openInNewTab": true
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://linkedin.com/in/aulianza",
+      "openInNewTab": true
+    },
+    {
+      "title": "Instagram",
+      "url": "https://instagram.com/aulianza",
+      "openInNewTab": true
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/aulianza",
+      "openInNewTab": true
+    },
+    {
+      "title": "Sponsor",
+      "url": "https://trakteer.id/aulianza/tip",
+      "openInNewTab": true
+    }
+  ]
+}
